@@ -3,7 +3,7 @@
 - 🔭 Tenho interesse em trabalhar com back-end
 - 🌱 Atualmente estudando Python
 - 💡 Trabalhando em projetos usando Flask 
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](caio.ariel@outlook.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-ariel-693201281/) | [Email](caio.ariel@outlook.com)
 - 😄 Pronouns: ele/dele
 
 <picture>
