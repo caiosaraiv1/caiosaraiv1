@@ -1,16 +1,39 @@
-## Hi there 👋
+## Olá, me chamo Caio Arie!
 
-<!--
-**caiosaraiv1/caiosaraiv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Tenho interesse em trabalhar com back-end
+- 🌱 Atualmente estudando Python
+- 💡 Trabalhando em projetos usando Flask 
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Email](caio.ariel@outlook.com)
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+
+### [API Consulta de Clima](https://github.com/caiosaraiv1/api-consultaclima)
+Permite o usuario checar informações climaticas de diversas cidades. Utilizei Flask e a API Openweather.
+
+
+## Estatísticas do GitHub
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1" />
+</picture>
