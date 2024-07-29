@@ -1,4 +1,4 @@
-## Olá, me chamo Caio Arie!
+## Olá, me chamo Caio Ariel!
 
 - 🔭 Tenho interesse em trabalhar com back-end
 - 🌱 Atualmente estudando Python
