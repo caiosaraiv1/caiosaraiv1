@@ -22,6 +22,9 @@
 ### [API Consulta de Clima](https://github.com/caiosaraiv1/api-consultaclima)
 Permite o usuario checar informações climaticas de diversas cidades. Utilizei Flask e a API Openweather.
 
+### [Jogo da Velha em Java](https://github.com/caiosaraiv1/jogo-da-velha-java)
+Este projeto implementa o jogo da velha em Java, permitindo que dois jogadores alternem jogadas até que um vença ou o jogo termine em empate.
+
 
 ## Estatísticas do GitHub
 
