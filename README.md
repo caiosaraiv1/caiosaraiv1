@@ -1,8 +1,7 @@
 ## Olá, me chamo Caio Ariel!
 
 - 🔭 Tenho interesse em trabalhar com back-end
-- 🌱 Atualmente estudando Python e Java
-- 💡 Trabalhando em projetos usando Flask 
+- 🌱 Atualmente estudando Python, Java e C
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-ariel-693201281/) | [Email](caio.ariel@outlook.com)
 
 <picture>
