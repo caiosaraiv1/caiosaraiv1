@@ -24,6 +24,9 @@ Permite o usuario checar informações climaticas de diversas cidades. Utilizei 
 ### [Jogo da Velha em Java](https://github.com/caiosaraiv1/jogo-da-velha-java)
 Este projeto implementa o jogo da velha em Java, permitindo que dois jogadores alternem jogadas até que um vença ou o jogo termine em empate.
 
+### [Gerador de Senhas Fortes em C](https://github.com/caiosaraiv1/gerador-de-senha)
+Este projeto em C implementa um gerador de senhas seguras e aleatórias, utilizando caracteres especiais, letras maiúsculas e minúsculas. O usuário pode definir o tamanho da senha e garantir que ela atenda aos requisitos de segurança, como um comprimento mínimo de 12 caracteres.
+
 
 ## Estatísticas do GitHub
 
