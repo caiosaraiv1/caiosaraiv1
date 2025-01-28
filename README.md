@@ -4,18 +4,6 @@
 - 🌱 Atualmente estudando Python, Java e C
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-ariel-693201281/) | [Email](caio.ariel@outlook.com)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=caiosaraiv1&show_icons=true" />
-</picture>
-
 ## Projetos em Destaque
 
 ### [API Consulta de Clima](https://github.com/caiosaraiv1/api-consultaclima)
