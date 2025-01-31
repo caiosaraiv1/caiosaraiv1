@@ -17,18 +17,3 @@ Este projeto em C implementa um gerador de senhas seguras e aleatórias, utiliza
 
 ### [Jogo da Forca em C](https://github.com/caiosaraiv1/jogo-da-forca-c)
 Um jogo da forca interativo desenvolvido em C, com níveis de dificuldade, sistema de tentativas limitadas, exibição de letras erradas e mensagens de vitória ou derrota.
-
-
-## Estatísticas do GitHub
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiosaraiv1" />
-</picture>
