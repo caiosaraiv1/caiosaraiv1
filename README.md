@@ -19,3 +19,6 @@ Um jogo da forca interativo desenvolvido em C, com níveis de dificuldade, siste
 
 ### [Conversor de Unidade em Java](https://github.com/caiosaraiv1/conversor-unidades-javafx)
 Um aplicativo desktop desenvolvido em Java com JavaFX que permite converter diferentes tipos de unidades, incluindo medidas de comprimento, peso, velocidade e moedas.
+
+### [Jogo da Velha em C](https://github.com/caiosaraiv1/jogo-da-velha-c)
+Um jogo da velha implementado em C, este projeto demonstra o uso de estruturas de dados básicas, manipulação de matrizes e programação modular em C.
