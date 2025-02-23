@@ -1,7 +1,7 @@
 ## Olá, me chamo Caio Ariel!
 
 - 🌱 Atualmente estudando Python, Java e C
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caio-ariel-693201281/) | [Email](caio.ariel@outlook.com)
+- 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/caioariel) | [Email](caio.ariel@outlook.com)
 
 ## Projetos em Destaque
 
@@ -22,3 +22,6 @@ Um aplicativo desktop desenvolvido em Java com JavaFX que permite converter dife
 
 ### [Jogo da Velha em C](https://github.com/caiosaraiv1/jogo-da-velha-c)
 Um jogo da velha implementado em C, este projeto demonstra o uso de estruturas de dados básicas, manipulação de matrizes e programação modular em C.
+
+### [Sistema de Notas em C](https://github.com/caiosaraiv1/gerenciador-de-notas-c)
+Este projeto é um gerenciador de notas simples desenvolvido em C, permitindo criar, editar, buscar, listar e excluir notas de forma dinâmica. 
