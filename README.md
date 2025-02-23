@@ -1,7 +1,7 @@
 ## Olá, me chamo Caio Ariel!
 
 - 🌱 Atualmente estudando Python, Java e C
-- 📫 Como me encontrar: [LinkedIn](linkedin.com/in/caioariel) | [Email](caio.ariel@outlook.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caioariel) | [Email](caio.ariel@outlook.com)
 
 ## Projetos em Destaque
 
