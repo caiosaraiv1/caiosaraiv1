@@ -40,6 +40,12 @@ Aqui estão alguns dos meus projetos favoritos:
 
 🌟 Destaque: O projeto integra as APIs OpenWeatherMap e Google Translate para oferecer um serviço que combina dados meteorológicos e tradução automática. Implementa boas práticas como gerenciamento seguro de chaves de API com variáveis de ambiente, estruturação clara de endpoints RESTful e transformação de dados para melhor usabilidade.
 
+### [Análise de Vendas E-commerce](https://github.com/caiosaraiv1/analise-ecommerce)
+📝 Um projeto de análise exploratória de dados que investiga padrões de vendas de um e-commerce, revelando insights cruciais sobre comportamento de compra, sazonalidade e produtos mais rentáveis. A análise identifica períodos de pico de vendas, oportunidades geográficas e estratégias de fidelização de clientes para maximizar o faturamento.
+
+🛠️ Tecnologias usadas: Python, Pandas, Matplotlib, Seaborn.
+
+🌟 Destaque: O projeto implementa uma metodologia completa de análise de dados, desde o tratamento de valores negativos até a extração de insights de negócio acionáveis. Identifica padrões temporais significativos (horários, dias e meses de pico), calcula métricas financeiras importantes (ticket médio) e apresenta visualizações claras que fundamentam recomendações estratégicas para otimização de vendas.
 ---
 
 ## 📊 Estatísticas do GitHub
