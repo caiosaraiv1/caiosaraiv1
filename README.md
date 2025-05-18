@@ -46,6 +46,7 @@ Aqui estão alguns dos meus projetos favoritos:
 🛠️ Tecnologias usadas: Python, Pandas, Matplotlib, Seaborn.
 
 🌟 Destaque: O projeto implementa uma metodologia completa de análise de dados, desde o tratamento de valores negativos até a extração de insights de negócio acionáveis. Identifica padrões temporais significativos (horários, dias e meses de pico), calcula métricas financeiras importantes (ticket médio) e apresenta visualizações claras que fundamentam recomendações estratégicas para otimização de vendas.
+
 ---
 
 ## 📊 Estatísticas do GitHub
