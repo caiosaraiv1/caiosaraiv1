@@ -2,7 +2,7 @@
 
 👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação.  
 🌍 Moro em São Paulo.  
-🎯 Foco atual: C e Java.  
+🎯 Foco atual: C, Java e Python.  
 💡 Sempre aprendendo e buscando novos desafios.  
 
 ---
@@ -47,10 +47,12 @@ Aqui estão alguns dos meus projetos favoritos:
 
 🌟 Destaque: O projeto implementa uma metodologia completa de análise de dados, desde o tratamento de valores negativos até a extração de insights de negócio acionáveis. Identifica padrões temporais significativos (horários, dias e meses de pico), calcula métricas financeiras importantes (ticket médio) e apresenta visualizações claras que fundamentam recomendações estratégicas para otimização de vendas.
 
----
+### [Predição de Retenção de Estudantes no Ensino Superior](https://github.com/caiosaraiv1/predicao-retencao-estudantes)
+📝 Um projeto de machine learning que analisa e prevê a retenção de estudantes no ensino superior, classificando-os em três categorias: abandono (Dropout), matrícula contínua (Enrolled) ou conclusão do curso (Graduate). Utilizando técnicas de análise exploratória e múltiplos algoritmos de classificação, o sistema identifica padrões em características socioeconômicas, acadêmicas e institucionais para predizer o destino acadêmico dos alunos.
 
-## 📊 Estatísticas do GitHub
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosaraiv1&layout=compact&theme=radical)
+🛠️ Tecnologias usadas: Python, Pandas, Plotly, Scikit-learn, Pickle.
+
+🌟 Destaque: O projeto implementa um pipeline completo de machine learning, desde a análise exploratória com visualizações interativas até a serialização de modelos para produção. Compara o desempenho de diferentes algoritmos (Decision Tree, Random Forest, KNN), aplica técnicas de pré-processamento como OneHotEncoder e MinMaxScaler, e demonstra a aplicação prática com validação em novos dados, alcançando alta acurácia na predição de retenção estudantil.
 
 ---
 
