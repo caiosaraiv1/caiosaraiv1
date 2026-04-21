@@ -2,22 +2,31 @@
 
 👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação.  
 🌍 Moro em São Paulo.  
-🎯 Foco atual: C, Java e Python.  
+🎯 Foco atual: Cloud, DevOps, Python e C.  
 💡 Sempre aprendendo e buscando novos desafios.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
 
 ---
 
 ## 🚀 Projetos Destacados
 
-Aqui estão alguns dos meus projetos favoritos:
+### [Telegram Deal Monitor](https://github.com/caiosaraiv1/telegram-deal-monitor)
+📝 Bot de monitoramento de promoções em tempo real para grupos do Telegram. O sistema escuta mensagens em múltiplos grupos simultaneamente, filtra produtos de interesse via regex e envia notificações instantâneas via Telegram Bot API — tudo rodando 24/7 em produção na AWS.
+
+🛠️ Tecnologias usadas: Python, Telethon, Docker, AWS EC2.
+
+🌟 Destaque: Arquitetura orientada a processo de longa duração via protocolo MTProto, containerizada com Docker e implantada em EC2. Inclui gerenciamento seguro de credenciais com variáveis de ambiente, persistência de sessão via bind mount e deploy via SSH/rsync.
+
+---
 
 ### [Validador de Expressões Matemáticas](https://github.com/caiosaraiv1/mathematical-expressions-evaluator)
 📝 Uma calculadora interativa em Java que avalia expressões matemáticas, gerencia variáveis e grava sequências de comandos. Este REPL (Read-Evaluate-Print-Loop) desenvolvido para o curso de Estruturas de Dados permite aos usuários definir variáveis, avaliar expressões complexas e automatizar operações. 
