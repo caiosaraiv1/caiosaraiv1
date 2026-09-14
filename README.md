@@ -11,10 +11,10 @@ Building systems in C, C++, and Python — with a focus on distributed computing
 
 ## Projects
 
-**[OSPF Network Simulator](https://github.com/caiosaraiv1)** — `C++` `Docker` `CMake`  
+**[OSPF Network Simulator](https://github.com/caiosaraiv1/simulador-ospf)** — `C++` `Docker` `CMake`  
 Distributed simulator modeling the OSPF routing protocol with multithreaded router nodes, Dijkstra shortest-path convergence, and chaos injection for resilience testing across mesh topologies of up to 50 routers.
 
-**[LBM-HPC-Simulator](https://github.com/caiosaraiv1)** — `C` `HIP / AMD ROCm`  
+**[LBM-HPC-Simulator](https://github.com/caiosaraiv1/lbm-hpc-simulator)** — `C` `HIP / AMD ROCm`  
 GPU-accelerated Lattice Boltzmann fluid dynamics simulator. Replaced ASCII VTK output with binary writes, cutting I/O time by 29.5x. Uses SoA memory layout with double-buffered GPU kernels to maximize coalescing and avoid race conditions.
 
 **[Telegram Deal Monitor](https://github.com/caiosaraiv1/telegram-deal-monitor)** — `Python` `AWS EC2` `Docker`  
