@@ -1,27 +1,40 @@
 # Caio Saraiva
 
-CS student at Mackenzie · São Paulo, Brazil  
-Building systems in C, C++, and Python — with a focus on distributed computing, HPC, and software engineer.
+```console
+caioariel@github:~$ fastfetch
 
-`C` `C++` `Python` `Java` `AWS` `Docker` `Linux` `HPC`
+     .-----------.       MAJOR      ->  Computer Science
+     | >_        |       NAME       ->  Caio Ariel
+     |           |       COLLEGE    ->  Mackenzie (Dec/2027)
+    /|___________|\      STACK      ->  Java (Spring Boot), C# (.NET), C/C++, Python
+   /______[__]_____\     STATUS     ->  CNPq Researcher
+                         RESEARCH   ->  HPC, Distributed Systems
+                         LOCATION   ->  São Paulo, Brazil
 
-> Currently a CNPq research fellow (starting Aug 2026) — investigating fault tolerance for tightly-coupled HPC workloads on AWS Spot Instances (checkpoint/restart, MPI ULFM, heartbeats).
+caioariel@github:~$ █
+```
+
+Backend engineering and distributed systems, with a research background in high-performance computing.
+
+`Java` `Spring Boot` `C#` `.NET` `C` `C++` `Python` `PostgreSQL` `Docker` `AWS` `Linux`
+
+> **Research:** CNPq undergraduate research fellow, investigating proactive fault tolerance for tightly-coupled HPC workloads on AWS Spot Instances (checkpoint/restart, MPI ULFM, heartbeats).
 
 ---
 
 ## Projects
 
-**[OSPF Network Simulator](https://github.com/caiosaraiv1/simulador-ospf)** — `C++` `Docker` `CMake`  
-Distributed simulator modeling the OSPF routing protocol with multithreaded router nodes, Dijkstra shortest-path convergence, and chaos injection for resilience testing across mesh topologies of up to 50 routers.
+**[Overwatch Tracker](https://github.com/caiosaraiv1/overwatch-tracker)** — `Java 21` `Spring Boot` `JPA` `Flyway`  
+REST API to record Overwatch matches and compute per-hero statistics (winrate, average eliminations, damage, healing). Matches are created atomically with their nested hero performances in a single transaction. The project uses versioned database migrations, feature-based package organization, and structured error handling through domain-specific exceptions and a global handler.
 
-**[LBM-HPC-Simulator](https://github.com/caiosaraiv1/lbm-hpc-simulator)** — `C` `HIP / AMD ROCm`  
-GPU-accelerated Lattice Boltzmann fluid dynamics simulator. Replaced ASCII VTK output with binary writes, cutting I/O time by 29.5x. Uses SoA memory layout with double-buffered GPU kernels to maximize coalescing and avoid race conditions.
+**[AniTrack](https://github.com/caiosaraiv1/anitrack)** — `C#` `.NET` `EF Core` `PostgreSQL`  
+Anime tracking API that searches a public anime API, manages a personal watch list, and tracks episode progress. It resyncs with the external API when the user's progress exceeds the known episode count and falls back to local data when the API is unavailable. Persistence uses EF Core with Fluent API mapping and migrations.
+
+**[OSPF Network Simulator](https://github.com/caiosaraiv1/simulador-ospf)** — `C++` `Docker` `CMake`  
+Distributed simulator of the OSPF routing protocol with multithreaded router nodes and Dijkstra shortest-path convergence. Chaos injection is used for resilience testing across mesh topologies of up to 50 routers.
 
 **[Telegram Deal Monitor](https://github.com/caiosaraiv1/telegram-deal-monitor)** — `Python` `AWS EC2` `Docker`  
-Event-driven bot using Telethon (MTProto) to parse real-time deals across 6+ Telegram channels with zero polling overhead. Containerized and deployed on AWS EC2, running continuously 24/7 for 50+ days.
-
-**[Mathematical Expression Evaluator](https://github.com/caiosaraiv1/mathematical-expressions-evaluator)** — `Java`  
-REPL calculator implementing custom Stack and Queue data structures and infix-to-postfix conversion via the Shunting Yard algorithm. Supports variable assignment and command recording.
+Event-driven bot using Telethon (MTProto) to parse real-time deals across 6+ Telegram channels with zero polling overhead. It is containerized and deployed on AWS EC2, running 24/7.
 
 ---
 
